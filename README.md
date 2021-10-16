@@ -1,9 +1,14 @@
-# JobsCalc
+<table>
+  <tr>
+    <td><img src="https://github.com/luiizsilverio/jobscalc/blob/master/public/images/logo.svg" /></td>
+  </tr>
+</table>
+
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
 * [Screenshots](#camera_flash-screenshots)
-* [Iniciando o Projeto](#car-Iniciando-o-projeto)
+* [Iniciando o Projeto](#car-iniciando-o-projeto)
 * [Licença](#balance_scale-licença)
 * [Contato](#email-contato)
 
